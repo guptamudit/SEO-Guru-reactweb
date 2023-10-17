@@ -1,5 +1,3 @@
-# Site: 
-https://zesty-entremet-9d4d5b.netlify.app
 
 # React + Vite
 
