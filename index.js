@@ -11,7 +11,7 @@ app.use(cors());
 
 // Connect to the MongoDB database
 mongoose.connect(
-  "mongodb+srv://training-project:guptatraining@cluster0.dkjhsnk.mongodb.net/?retryWrites=true&w=majority",
+  "",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
